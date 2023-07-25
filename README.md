@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT1g1V8Nalm9FkR2atv7annUXbPvk5g-mWffaNxT_ItIFogl-6mC_lHNifw5Tw9-yiS)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/220px-Heart_coraz%C3%B3n.svg.png)
 <!--
 **natielejorge/natielejorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
